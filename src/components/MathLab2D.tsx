@@ -626,7 +626,7 @@ export const MathLab2D: React.FC = () => {
             <div className="p-3.5 rounded-xl bg-slate-900 border border-slate-800 text-xs text-slate-300 space-y-1">
               <span className="font-bold text-amber-400 block">Quy tắc ghi nhớ dấu góc phần tư:</span>
               <p className="font-mono text-slate-400 text-[11px]">
-                "Nhất cả (I: all > 0), Nhì sin (II: sin > 0), Tam tang (III: tan, cot > 0), Tứ cos (IV: cos > 0)."
+                {'"Nhất cả (I: all > 0), Nhì sin (II: sin > 0), Tam tang (III: tan, cot > 0), Tứ cos (IV: cos > 0)."'}
               </p>
             </div>
           </div>

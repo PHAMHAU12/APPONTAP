@@ -1,0 +1,8 @@
+{
+  "name": "ÔN TẬP TOÁN - PHẠM HẬU",
+  "description": "Hệ thống Trợ lý Học tập Phản hồi Tức thì Toán 10 & 11 - Phân tích Socratic, Đồ thị Kiến thức, Luyện đề Chuẩn Bộ GD&ĐT và Đấu trường Arena ELO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
